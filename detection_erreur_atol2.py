@@ -2,7 +2,7 @@
 """
 Created on Fri Dec 22 11:19:40 2017
 
-@author: jyon
+@author: jyon et Lorita
 """
 
 # -*- coding: utf-8 -*-
